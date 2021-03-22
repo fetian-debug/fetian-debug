@@ -61,6 +61,8 @@
   <img src ="./images/nodemon.svg" alt="Nodemon logo" width="8%" title='Nodemon'/> 
 </div>
 <div >
+        <br>
+        <br>
         <b>عبارات تحفيزيه<b>
                 <br> <br>
 <small >
