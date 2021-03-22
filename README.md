@@ -76,8 +76,8 @@
 </small>
 </div>
  <br> <br>              
-<div>
+<!--<div>
 <small>ادعمنى لاستمرار </small> <br />  
  <a href = "https://account.skrill.com/signup?rid=155934316"><img src='https://account.skrill.com/wallet/ng/assets/skrill/svg/header-logo.svg' alt='skrill Logo' style="width:10%"/></a>
 </div>
-
+-->
