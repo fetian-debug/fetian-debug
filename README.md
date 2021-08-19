@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on  Bachelor of Software Engineering
 
-- 🌱 I’m currently learning Mobile Applications
+- 🌱 I’m currently learning Web developer.
 
 - 📫 How to reach me:
 - phone: +2010090216
