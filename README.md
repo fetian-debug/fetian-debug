@@ -18,9 +18,10 @@
 
 ![](https://komarev.com/ghpvc/?username=fetian-debug&color=green)
         
-أنا مبرمج ومطو ومنشئ محتوى ومحلل بيانات. التقنيات أستخدمها
 
 </div>
+<!--<div>
+أنا مبرمج ومطو ومنشئ محتوى ومحلل بيانات. التقنيات أستخدمها
 
 ### Frontend Technologies
 
@@ -49,7 +50,8 @@
   <img src ="./images/flask.svg" alt="Flask logo" width="8%" title='Flask'/>
   <img src ="./images/django.svg" alt="Django logo" width="8%" title='Django'/>
 </div>
-
+-->
+<!--<div>
 ### Tools
 
 <div>
@@ -60,6 +62,8 @@
   <img src ="./images/webpack.svg" alt="Webpack logo" width="8%" title='Webpack'/>
   <img src ="./images/nodemon.svg" alt="Nodemon logo" width="8%" title='Nodemon'/> 
 </div>
+-->
+
 <div >
         <br>
         <br>
