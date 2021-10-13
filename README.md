@@ -13,7 +13,7 @@
 <div>
 <a href="https://www.linkedin.com/in/fetian-ans-224613189/" target="_blank"><img src='./images/linkedin.svg' alt='LinkedIn' width="8%"></a>
 <a href="https://twitter.com/fetian_debug" target="_blank"><img src='./images/twitter.svg' alt='Twitter' width="3%" title='@Fetian'></a>
-<a href="https://facebook.com/fetian_debug" target="_blank"><img src='./images/facebook.png' alt='facebook' width="3%" title='@Fetian'></a>
+<a href="https://www.facebook.com/fetian.debug/" target="_blank"><img src='./images/facebook.png' alt='facebook' width="3%" title='@Fetian'></a>
 <a href="https://fetian-ans.firebaseapp.com/" target="_blank">Portfolio</a>
 
 ![](https://komarev.com/ghpvc/?username=fetian-debug&color=green)
