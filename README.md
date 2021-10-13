@@ -13,7 +13,8 @@
 <div>
 <a href="https://www.linkedin.com/in/fetian-ans-224613189/" target="_blank"><img src='./images/linkedin.svg' alt='LinkedIn' width="8%"></a>
 <a href="https://twitter.com/fetian_debug" target="_blank"><img src='./images/twitter.svg' alt='Twitter' width="3%" title='@Fetian'></a>
-<a href="https://www.youtube.com/channel/UCpOfC7yDq-yrf5_k5BsrqTg" target="_blank"><img src='./images/youtube.svg' alt='YouTube' width="3%"></a>
+<a href="https://facebook.com/fetian_debug" target="_blank"><img src='./images/facebook.png' alt='facebook' width="3%" title='@Fetian'></a>
+<a href="https://fetian-ans.firebaseapp.com/" target="_blank">Portfolio</a>
 
 ![](https://komarev.com/ghpvc/?username=fetian-debug&color=green)
         
@@ -81,8 +82,4 @@
 </small>
 </div>
  <br> <br>              
-<!--<div>
-<small>ادعمنى لاستمرار </small> <br />  
- <a href = "https://account.skrill.com/signup?rid=155934316"><img src='https://account.skrill.com/wallet/ng/assets/skrill/svg/header-logo.svg' alt='skrill Logo' style="width:10%"/></a>
-</div>
--->
+
