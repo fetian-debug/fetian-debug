@@ -11,7 +11,7 @@
 - Gmail: fetianans@gmail.com
 
 <div>
-<a href="https://www.linkedin.com/in/fetian-ans-224613189/" target="_blank"><img src="https://img.shields.io/badge/-Fetian%20Ans-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/fetian-ans-abo-hatb-224613189/" target="_blank"><img src="https://img.shields.io/badge/-Fetian%20Ans-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/fetian_debug" target="_blank"><img src='./images/twitter.svg' alt='Twitter' width="3%" title='@Fetian'></a>
 <a href="https://www.facebook.com/fetian.debug/" target="_blank"><img src='./images/facebook.png' alt='facebook' width="3%" title='@Fetian'></a>
 <a href="https://fetian-ans.firebaseapp.com/" target="_blank">Portfolio</a>
