@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Web developer.
 
 - 📫 How to reach me:
-- phone: +2010090216
+- phone: +201009021622
 - Gmail: fetianans@gmail.com
 
 <div>
