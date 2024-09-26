@@ -1,14 +1,50 @@
-👋اهلا بك
-## I'm Fetian Ans Abo-hatb
+# 👋 Hello, I'm Fetian Ans Abo-hatb
 <br>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fetian-debug)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fetian-ans-abohatb/)
 
-- 🔭 I’m currently working on  Bachelor of Software Engineering
-
-- 🌱 I’m currently learning Web developer.
+A Software Engineer and a problem solver with experience and I have a strong passion for programming, specifically Web development, I love to work with new technologies and developing web applications .
+-I’m have Bachelor of Software Engineering
+-I'm a working as a React Developer. 
+-I'm a working as a ReactNative Developer. 
+-I’m a working as a Flutter Developer.
+-I’m a working as a MERN Stack.
 
 - 📫 How to reach me:
 - phone: +201009021622
-- Gmail: fetianans@gmail.com
+- Gmail: fetianans.dev@gmail.com
+
+  
+---
+
+## 🔧 Skills
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+- 👨🏻‍💻 **Languages**: C++, Python, JavaScript, HTML, CSS
+- 🛠️ **Frameworks and Libraries**: React.js, React Native, Node.js, Expo, Tailwind CSS, Qt
+- 🛠️ **Tools**: Git
+- 📚 **Databases**: MySQL, MongoDB
+- 🛠️ **ORM/ODM**: Mongoose
+- 🛠️ **Server Framework**: Express.js
+
+---
+
 
 <div>
 <a href="https://www.linkedin.com/in/fetian-ans-abo-hatb-224613189/" target="_blank"><img src="https://img.shields.io/badge/-Fetian%20Ans-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
