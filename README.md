@@ -72,8 +72,7 @@ A Software Engineer and a problem solver with experience and I have a strong pas
   <img src ="./images/flask.svg" alt="Flask logo" width="8%" title='Flask'/>
   <img src ="./images/django.svg" alt="Django logo" width="8%" title='Django'/>
 </div>
--->
-<!--<div>
+
 ### Tools
 
 <div>
