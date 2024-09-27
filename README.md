@@ -1,7 +1,15 @@
 # 👋 Hello, I'm Fetian Ans Abo-hatb
-<br>
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fetian-debug)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fetian-ans-abohatb/)
+
+![](https://img.shields.io/badge/Portofolio-181717?style=for-the-badge&color=295F98)(https://fetian-ans.firebaseapp.com/)
+![](https://komarev.com/ghpvc/?username=fetian-debug&color=green)
+
+
+
+
+https://img.shields.io/badge/Portofolio-181717?style=for-the-badge&logo=facebook&logoColor=blue
 
 A Software Engineer and a problem solver with experience and I have a strong passion for programming, specifically Web development, I love to work with new technologies and developing web applications .
 -I’m have Bachelor of Software Engineering
@@ -21,8 +29,6 @@ A Software Engineer and a problem solver with experience and I have a strong pas
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -46,13 +52,6 @@ A Software Engineer and a problem solver with experience and I have a strong pas
 ---
 
 
-<div>
-<a href="https://www.linkedin.com/in/fetian-ans-abo-hatb-224613189/" target="_blank"><img src="https://img.shields.io/badge/-Fetian%20Ans-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/fetian_debug" target="_blank"><img src='./images/twitter.svg' alt='Twitter' width="3%" title='@Fetian'></a>
-<a href="https://www.facebook.com/fetian.debug/" target="_blank"><img src='./images/facebook.png' alt='facebook' width="3%" title='@Fetian'></a>
-<a href="https://fetian-ans.firebaseapp.com/" target="_blank">Portfolio</a>
-
-![](https://komarev.com/ghpvc/?username=fetian-debug&color=green)
         
 
 </div>
