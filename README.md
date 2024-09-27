@@ -11,9 +11,9 @@ A Software Engineer and a problem solver with experience and I have a strong pas
 -I’m a working as a Flutter Developer.
 -I’m a working as a MERN Stack.
 
-- 📫 How to reach me:
-- phone: +201009021622
-- Gmail: fetianans.dev@gmail.com
+- 📫 How to reach me: If you'd like to get in touch, feel free to reach out to me at.
+  - 📞 phone: +201009021622
+  - 📧 Gmail: [fetianans.dev@gmail.com](mailto:fetianans.dev@gmail.com)
 
   
 ---
