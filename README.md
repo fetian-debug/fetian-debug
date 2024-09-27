@@ -83,7 +83,6 @@ A Software Engineer and a problem solver with experience and I have a strong pas
   <img src ="./images/webpack.svg" alt="Webpack logo" width="8%" title='Webpack'/>
   <img src ="./images/nodemon.svg" alt="Nodemon logo" width="8%" title='Nodemon'/> 
 </div>
--->
 
 <div >
         <br>
