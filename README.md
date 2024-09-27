@@ -4,11 +4,6 @@
 [![](https://img.shields.io/badge/Portofolio-181717?style=for-the-badge&color=295F98)](https://fetian-ans.firebaseapp.com/)
 ![](https://komarev.com/ghpvc/?username=fetian-debug&color=green&style=for-the-badge&label=PROFILE+VIEWS)
 
-
-
-
-https://img.shields.io/badge/Portofolio-181717?style=for-the-badge&logo=facebook&logoColor=blue
-
 A Software Engineer and a problem solver with experience and I have a strong passion for programming, specifically Web development, I love to work with new technologies and developing web applications .
 -I’m have Bachelor of Software Engineering
 -I'm a working as a React Developer. 
@@ -49,12 +44,6 @@ A Software Engineer and a problem solver with experience and I have a strong pas
 
 ---
 
-
-        
-
-</div>
-<!--<div>
-أنا مبرمج ومطو ومنشئ محتوى ومحلل بيانات. التقنيات أستخدمها
 
 ### Frontend Technologies
 
