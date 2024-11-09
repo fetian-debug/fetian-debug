@@ -6,11 +6,11 @@
 ![](https://komarev.com/ghpvc/?username=fetian-debug&color=green&style=for-the-badge&label=PROFILE+VIEWS)
 
 A Software Engineer and a problem solver with experience and I have a strong passion for programming, specifically Web development, I love to work with new technologies and developing web applications .
--I’m have Bachelor of Software Engineering From KFS
--I'm a working as a React Developer.
--I'm a working as a ReactNative Developer.
--I’m a working as a Flutter Developer.
--I’m a working as a MERN Stack.
+- I’m have Bachelor of Software Engineering From KFS
+- I'm a working as a React Developer.
+- I'm a working as a ReactNative Developer.
+- I’m a working as a Flutter Developer.
+- I’m a working as a MERN Stack.
 
 - 📫 How to reach me: If you'd like to get in touch, feel free to reach out to me at.
   - 📞 phone: +201009021622
