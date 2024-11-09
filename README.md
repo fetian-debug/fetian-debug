@@ -1,13 +1,14 @@
 # 👋 Hello, I'm Fetian Ans Abo-hatb
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fetian-ans-abohatb/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fetian-debug)
 [![](https://img.shields.io/badge/Portofolio-181717?style=for-the-badge&color=295F98)](https://fetian-ans.firebaseapp.com/)
 ![](https://komarev.com/ghpvc/?username=fetian-debug&color=green&style=for-the-badge&label=PROFILE+VIEWS)
 
 A Software Engineer and a problem solver with experience and I have a strong passion for programming, specifically Web development, I love to work with new technologies and developing web applications .
--I’m have Bachelor of Software Engineering
--I'm a working as a React Developer. 
--I'm a working as a ReactNative Developer. 
+-I’m have Bachelor of Software Engineering From KFS
+-I'm a working as a React Developer.
+-I'm a working as a ReactNative Developer.
 -I’m a working as a Flutter Developer.
 -I’m a working as a MERN Stack.
 
@@ -15,7 +16,6 @@ A Software Engineer and a problem solver with experience and I have a strong pas
   - 📞 phone: +201009021622
   - 📧 Gmail: [fetianans.dev@gmail.com](mailto:fetianans.dev@gmail.com)
 
-  
 ---
 
 ## 🔧 Skills
@@ -43,7 +43,6 @@ A Software Engineer and a problem solver with experience and I have a strong pas
 - 🛠️ **Server Framework**: Express.js
 
 ---
-
 
 ### Frontend Technologies
 
@@ -101,5 +100,4 @@ A Software Engineer and a problem solver with experience and I have a strong pas
 لازم تبقا مبتكر وقلبك جامد لازم تجرب حجات ممكن متنفعش ومتسمحش لاى حد يحجمك عيش حلمك
 </small>
 </div>
- <br> <br>              
-
+ <br> <br>
